@@ -4,10 +4,8 @@
 
 **You'll find**
 
-main.tf - Terraform file where the resources are declared
+`main.tf` - Terraform file where the resources are declared
 
-variables.tf - File where the variables are stored, then used in main.tf
+`variables.tf` - File where the variables are stored, then used in main.tf
 
-outputs.tf - Values you want to be outputed in the terminal when running 'terraform apply'
-
-
+`outputs.tf` - Values you want to be outputed in the terminal when running terraform apply
